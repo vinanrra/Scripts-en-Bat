@@ -43,8 +43,8 @@ echo String that file must contain
 set /p MySearchString=
 
 echo ============================================================================================
-echo If you want to move to a directory inside this folder just type the name of the folder
-echo otherwise put the complete path to the new folder
+echo If you want to move to a directory inside this folder, just type the name of the folder
+echo otherwise put the complete path to the new folder.
 echo ============================================================================================
 echo Directory to move
 set /p Directory=
